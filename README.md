@@ -1,6 +1,6 @@
-# 📰 TruthLens — Fake News Detection using BERT
+# TruthLens — Fake News Detection using BERT
 
-![Logo](https://img.shields.io/badge/AI-Fake%20News%20Detection-blueviolet?style=for-the-badge)
+
 
 TruthLens modern fake news detection system built using **BERT Transformers**, **PyTorch**, and **Streamlit**. The application analyzes news articles and predicts whether the news is **Real** or **Fake** with confidence scores.
 
