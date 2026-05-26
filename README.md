@@ -53,7 +53,7 @@ Fake-News-Detection/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/ahsansabeeh910/fake-news-detection.git
 cd fake-news-detection
 ```
 
